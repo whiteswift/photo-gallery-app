@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "photo-gallery-ionic",
+  "appId": "photo.gallery.app",
+  "appName": "photo-gallery-app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
